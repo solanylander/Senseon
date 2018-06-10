@@ -1,0 +1,22 @@
+{
+  "colors": [
+    {
+      "color": "black",
+      "category": ""hue"",
+      "type": 'primary',
+      "code": {
+        "rgba": [255.0,255.0,255.0,1.0],
+        "hex": "#000"
+      }
+    },
+    {
+      "color": "red",
+      "category":,
+      "type": "primary",
+      "code": {
+        "rgba": [255.0,0.0,.0,1.0],
+        "hex": "#FF0"
+      }
+    },
+  ]
+}
